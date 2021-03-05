@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cae34e25f2818a74db696d289dd0f55d, type: 3}
+  m_Name: "\u0424\u043E\u043D\u0442\u0430\u043D"
+  m_EditorClassIdentifier: 
+  BuildingView: {fileID: 3876309291095122671, guid: c19c352882462ad42ba01a69928174d2,
+    type: 3}
+  Name: "\u0424\u043E\u043D\u0442\u0430\u043D"
+  Icon: {fileID: 21300000, guid: 7128ca7d547ad6b429fb70ea56e28277, type: 3}
+  Prise: 200
+  PossibleProduction: []
